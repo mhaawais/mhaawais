@@ -86,25 +86,25 @@
 
 ---
 
-## 📊 GitHub Stats (Fixed)
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mhaawais&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=mhaawais&show_icons=true&rank_icon=github&cache_seconds=86400"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mhaawais&hide_border=false&cache_seconds=1800"
+    src="https://streak-stats.demolab.com?user=mhaawais&cache_seconds=86400"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaawais&layout=compact&langs_count=8&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaawais&layout=compact&langs_count=8&cache_seconds=86400"
     alt="Top Languages"
   />
 </p>
