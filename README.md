@@ -74,9 +74,7 @@
 
 ---
 
-## 📌 Featured Work (Based on your pinned repos)
-
-> *Tip:* Pin these repos on GitHub profile for maximum impact.
+## 📌 Featured Work
 
 - ✅ **Admin Management System** — dashboards & role-based UI
 - ✅ **Ecommerce Hackathon** — production-style TypeScript project
