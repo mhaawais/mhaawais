@@ -17,12 +17,16 @@
 </p>
 
 <!-- CTA Buttons -->
+
 <p align="center">
   <a href="mailto:awais8640107@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-awais8640107%40gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/muhammad-awais-5b37742ba" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Awais-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://muhammad-awais-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C896?logo=vercel&logoColor=white" />
   </a>
   <a href="https://x.com/mhaawais" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X%20(Twitter)-%40mhaawais-000000?logo=x&logoColor=white" />
@@ -127,6 +131,7 @@
   <a href="mailto:awais8640107@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a> •
   <a href="https://linkedin.com/in/muhammad-awais-5b37742ba" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
   <a href="https://x.com/mhaawais" target="_blank" rel="noopener noreferrer">X</a> •
+  <a href="https://muhammad-awais-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a> •
   <a href="https://www.instagram.com/_awais12?igsh=cWoyNWc1N3RiNXdl" target="_blank" rel="noopener noreferrer">Instagram</a>
 </p>
 
